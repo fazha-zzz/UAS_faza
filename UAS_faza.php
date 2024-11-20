@@ -35,7 +35,7 @@
     <div class="card-body">
     <label>unit pendidikan</label>
     <select class="form-select" aria-label="Default select example" name="unit">
-    <option selected>Open this select menu</option>
+    <option selected>Pilih Unit Pendidikan</option>
   <option value="smk">smk</option>
   <option value="smp">smp</option>
   <option value="sd">sd</option>
